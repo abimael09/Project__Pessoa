@@ -1,0 +1,16 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ProjetoPessoa\bin\Debug\ProjetoPessoa.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ProjetoPessoa\bin\Debug\ProjetoPessoa.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ProjetoPessoa\obj\x86\Debug\ProjetoPessoa.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ProjetoPessoa\obj\x86\Debug\ProjetoPessoa.pdb
+C:\Users\aluno\documents\visual studio 2010\Projects\ProjetoPessoa\ProjetoPessoa\obj\x86\Debug\ProjetoPessoa.exe
+C:\Users\aluno\documents\visual studio 2010\Projects\ProjetoPessoa\ProjetoPessoa\obj\x86\Debug\ProjetoPessoa.pdb
+C:\Users\aluno\documents\visual studio 2010\Projects\ProjetoPessoa\ProjetoPessoa\bin\Debug\ProjetoPessoa.exe
+C:\Users\aluno\documents\visual studio 2010\Projects\ProjetoPessoa\ProjetoPessoa\bin\Debug\ProjetoPessoa.pdb
+C:\Users\aluno\documents\visual studio 2010\Projects\ProjetoPessoa\ProjetoPessoa\obj\x86\Debug\ProjetoPessoa.csprojResolveAssemblyReference.cache
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoPessoa\ProjetoPessoa\bin\Debug\ProjetoPessoa.exe.config
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoPessoa\ProjetoPessoa\bin\Debug\ProjetoPessoa.exe
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoPessoa\ProjetoPessoa\bin\Debug\ProjetoPessoa.pdb
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoPessoa\ProjetoPessoa\obj\x86\Debug\ProjetoPessoa.csproj.AssemblyReference.cache
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoPessoa\ProjetoPessoa\obj\x86\Debug\ProjetoPessoa.csproj.CoreCompileInputs.cache
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoPessoa\ProjetoPessoa\obj\x86\Debug\ProjetoPessoa.exe
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoPessoa\ProjetoPessoa\obj\x86\Debug\ProjetoPessoa.pdb
